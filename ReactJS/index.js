@@ -22,7 +22,7 @@ class ContaCorrente{
 
 const cliente1 = new Cliente();
 cliente1.nome = "Felipe Dantas";
-cliente1.cpf = 07984376425;
+cliente1.cpf = 55584366625;
 
 
 console.log(cliente1);
